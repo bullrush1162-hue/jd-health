@@ -1,0 +1,12 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="280" height="60" viewBox="0 0 280 60">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0" stop-color="#00a8e8"/>
+      <stop offset="1" stop-color="#0072b8"/>
+    </linearGradient>
+  </defs>
+  <circle cx="30" cy="30" r="26" fill="url(#g)"/>
+  <text x="18" y="37" font-family="Poppins, Arial" font-weight="700" font-size="24" fill="white">JD</text>
+  <text x="70" y="36" font-family="Poppins, Arial" font-weight="600" font-size="20" fill="#e6f7ff">Healthcare</text>
+</svg>
